@@ -6,6 +6,14 @@ An open source cross-domain recommendation engine that helps you catch up on a f
 
 ---
 
+## Screenshots
+
+![RewindRec Overview](assets/sc-1.png)
+
+![Cross-domain Suggestions](assets/sc-2.png)
+
+---
+
 ## What It Does
 
 When a new movie or TV show is about to release, RewindRec:
