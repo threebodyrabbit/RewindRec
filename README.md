@@ -1,6 +1,6 @@
 # RewindRec
 
-An open source project that helps you discover and revisit older entries in a franchise before a new release drops.
+An open source project that helps you discover and revisit older entries in a franchise before a new release drops. Results are rendered as an HTML page, grouped by genre, with posters and rewatch suggestions inline.
 
 ## What It Does
 
