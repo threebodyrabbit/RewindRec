@@ -1,6 +1,6 @@
 # RewindRec
 
-An open source project that helps you discover and revisit older entries in a franchise before a new release drops — across movies, TV shows, and games.
+An open source cross-domain recommendation engine that helps you catch up on a franchise before a new release drops — surfacing related movies, TV shows, and games from the same universe.
 
 ## What It Does
 
